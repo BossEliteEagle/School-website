@@ -1,0 +1,10 @@
+body {
+    background-color: #B26B24;
+}
+h1, p {
+  color: white;
+  padding: 5px;
+}
+p {
+font: 15px Arial
+}
